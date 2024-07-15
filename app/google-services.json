@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "240818233513",
+    "firebase_url": "https://reddit-like-app-d9776-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "reddit-like-app-d9776",
+    "storage_bucket": "reddit-like-app-d9776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240818233513:android:43b4468617f68df79489b8",
+        "android_client_info": {
+          "package_name": "com.example.socialize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDUXegfxNJRbnA2comxSFeUIelgWbKdQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
